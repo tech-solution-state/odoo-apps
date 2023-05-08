@@ -3,7 +3,7 @@
     'name': "Serial Number on List View",
     'summary': 'Displaying Serial Number on List View.',
     'description': """By installing this module, user can see serial number in every list view. numbering list, sequential number in list, row number in list, numberring tree, sequential number in tree, row number in tree, auto numbering in tree/list""",
-    'version': '13.0.0.1',
+    'version': '14.0.0.1',
     'category': 'Other',
     'license': 'LGPL-3',
     'author': 'Tech Solution State',
